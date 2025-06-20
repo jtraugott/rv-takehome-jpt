@@ -4,7 +4,7 @@ import PipelineDashboard from "../components/PipelineDashboard";
 export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <main className="max-w-7xl ml-4 sm:ml-6 lg:ml-8 pr-8 sm:pr-12 lg:pr-16 xl:pr-20 py-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
             Sales Pipeline Dashboard
@@ -18,7 +18,7 @@ export default function Home() {
       </main>
       
       <footer className="bg-white border-t border-gray-200 mt-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="max-w-7xl ml-4 sm:ml-6 lg:ml-8 pr-8 sm:pr-12 lg:pr-16 xl:pr-20 py-8">
           <div className="flex gap-[24px] flex-wrap items-center justify-center">
             <a
               className="flex items-center gap-2 hover:underline hover:underline-offset-4 text-gray-600"

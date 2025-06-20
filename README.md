@@ -36,6 +36,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
+
+
 ## Jacob's Notes
 
 1. The instructions stated to seed the data using a call to port 3001, however the default port is 3000 so it errored out. I updated the call to use port 3000 which re-seeded the data.
@@ -67,3 +69,9 @@ I chose Option A. I believe that given the growth trajectory of the software, th
 #### Forecasting Dashboard
 1. I built a lot of this in with the Forecasting Algorithm but didnt get to all the specifics due to time.
 
+### To demo this
+Just run the app as you originally instructed
+
+### With more time
+1. I would like to do some further code review on the last two features I added. The first set I reviewed very meticulously, but did not want to get stuck for too long there.
+2. I would certainly like to get into some of the later asks.
