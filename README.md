@@ -55,3 +55,8 @@ I chose Option A. I believe that given the growth trajectory of the software, th
 6. Show values used for deal sizing.
 7. Used the proposed problem and background of the data to have AI come up with some defaults for data insights (see generateInsights in historical-analytics.ts)
 
+#### Forecasting Algorithm
+1. The seasonality numbers need to be updated to fit the industry for us, but this is a good formula based on our limited historical starting data.
+2. I added line graph with rechart because sales and ops folks love em. Obviously it is also just easier to see trends that way.
+3. Had to fix some of the styling because the contrast initially kept some of it from being properly viewed.
+
