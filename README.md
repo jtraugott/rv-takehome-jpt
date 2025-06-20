@@ -60,3 +60,10 @@ I chose Option A. I believe that given the growth trajectory of the software, th
 2. I added line graph with rechart because sales and ops folks love em. Obviously it is also just easier to see trends that way.
 3. Had to fix some of the styling because the contrast initially kept some of it from being properly viewed.
 
+#### Trend Detection
+1. The imports for the data routes came through incorrect on first pass. I updated them to match the correct routes.
+2. The filters diverged suddenly from the previous page structure. They were over engineered with added complexity that created rendering issues when changing from one non null filter set to the next. I reverted the logic and pulled from prior page filters to match UX and fix over-complexity.
+
+#### Forecasting Dashboard
+1. I built a lot of this in with the Forecasting Algorithm but didnt get to all the specifics due to time.
+
