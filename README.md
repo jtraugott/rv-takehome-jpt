@@ -72,6 +72,15 @@ I chose Option A. I believe that given the growth trajectory of the software, th
 ### To demo this
 Just run the app as you originally instructed
 
+### Demo Video
+A screenshare demo video is available showing the application in action. The demo covers:
+- Historical Analysis with filtering capabilities
+- Revenue Forecasting with interactive charts
+- Trend Detection for identifying stalling deals
+- Navigation between different dashboard views
+
+The demo video file (`screenshare-demo.mov`) is included in this repository.
+
 ### With more time
 1. I would like to do some further code review on the last two features I added. The first set I reviewed very meticulously, but did not want to get stuck for too long there.
 2. I would certainly like to get into some of the later asks.
