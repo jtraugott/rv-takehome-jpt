@@ -1,5 +1,5 @@
 import { calculateRevenueForecast } from '../forecasting';
-import { Deal } from '../../../entities/deals/Deal';
+import { Deal } from '../../lib/entities/deals/Deal';
 
 // Get current date for realistic test data
 const now = new Date();
